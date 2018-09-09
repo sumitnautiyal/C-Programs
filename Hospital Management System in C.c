@@ -900,6 +900,7 @@ void about()
 
 
 /* END OF THE PROGRAM */
+=======
 Hospital Management System in C
 /*           A PROJECT ON HOSPITAL MANAGEMENT SYSTEM           */
 
